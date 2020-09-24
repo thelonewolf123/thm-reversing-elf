@@ -1,0 +1,4 @@
+#! /usr/bin/rabin2
+
+stdio=/dev/pts/1
+stdin=/dev/pts/1
